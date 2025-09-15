@@ -1,0 +1,10 @@
+CORS_FIX_DEPLOYMENT_2024_01_15
+
+Changes made:
+- Created centralized axios client with proper CORS configuration
+- Updated all components to use the new axios client
+- Added CORS test page for debugging
+- Added request/response interceptors for logging
+- Enhanced error handling for API calls
+
+This deployment should resolve the CORS issues and improve API communication.
